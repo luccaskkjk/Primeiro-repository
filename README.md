@@ -1,2 +1,2 @@
 # Primeiro-repository
-Projeto Computacional Alunos Do Colégio Rio Do Meio
+Projeto Pensamento Computacional Alunos Do Colégio Rio Do Meio
